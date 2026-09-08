@@ -1,0 +1,7 @@
+# Python packages for COMSOL/MPh automation
+# Verified documentation date: 2026-09-04
+MPh>=1.4.0
+numpy
+scipy
+pandas
+matplotlib

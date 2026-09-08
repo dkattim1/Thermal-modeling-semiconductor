@@ -1,0 +1,6 @@
+# Generic Python scientific tools for DSMC DOE/surrogate/postprocessing
+numpy
+scipy
+pandas
+matplotlib
+gmsh
